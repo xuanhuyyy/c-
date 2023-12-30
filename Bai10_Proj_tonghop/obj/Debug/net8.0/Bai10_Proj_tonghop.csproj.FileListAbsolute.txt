@@ -1,0 +1,14 @@
+D:\C#\Bai10_Proj_tonghop\bin\Debug\net8.0\Bai10_Proj_tonghop.exe
+D:\C#\Bai10_Proj_tonghop\bin\Debug\net8.0\Bai10_Proj_tonghop.deps.json
+D:\C#\Bai10_Proj_tonghop\bin\Debug\net8.0\Bai10_Proj_tonghop.runtimeconfig.json
+D:\C#\Bai10_Proj_tonghop\bin\Debug\net8.0\Bai10_Proj_tonghop.dll
+D:\C#\Bai10_Proj_tonghop\bin\Debug\net8.0\Bai10_Proj_tonghop.pdb
+D:\C#\Bai10_Proj_tonghop\obj\Debug\net8.0\Bai10_Proj_tonghop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bai10_Proj_tonghop\obj\Debug\net8.0\Bai10_Proj_tonghop.AssemblyInfoInputs.cache
+D:\C#\Bai10_Proj_tonghop\obj\Debug\net8.0\Bai10_Proj_tonghop.AssemblyInfo.cs
+D:\C#\Bai10_Proj_tonghop\obj\Debug\net8.0\Bai10_Proj_tonghop.csproj.CoreCompileInputs.cache
+D:\C#\Bai10_Proj_tonghop\obj\Debug\net8.0\Bai10_Proj_tonghop.dll
+D:\C#\Bai10_Proj_tonghop\obj\Debug\net8.0\refint\Bai10_Proj_tonghop.dll
+D:\C#\Bai10_Proj_tonghop\obj\Debug\net8.0\Bai10_Proj_tonghop.pdb
+D:\C#\Bai10_Proj_tonghop\obj\Debug\net8.0\Bai10_Proj_tonghop.genruntimeconfig.cache
+D:\C#\Bai10_Proj_tonghop\obj\Debug\net8.0\ref\Bai10_Proj_tonghop.dll

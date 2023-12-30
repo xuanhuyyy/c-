@@ -1,0 +1,14 @@
+D:\C#\Bai17_Project_thuc_te\bin\Debug\net8.0\Bai17_Project_thuc_te.exe
+D:\C#\Bai17_Project_thuc_te\bin\Debug\net8.0\Bai17_Project_thuc_te.deps.json
+D:\C#\Bai17_Project_thuc_te\bin\Debug\net8.0\Bai17_Project_thuc_te.runtimeconfig.json
+D:\C#\Bai17_Project_thuc_te\bin\Debug\net8.0\Bai17_Project_thuc_te.dll
+D:\C#\Bai17_Project_thuc_te\bin\Debug\net8.0\Bai17_Project_thuc_te.pdb
+D:\C#\Bai17_Project_thuc_te\obj\Debug\net8.0\Bai17_Project_thuc_te.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bai17_Project_thuc_te\obj\Debug\net8.0\Bai17_Project_thuc_te.AssemblyInfoInputs.cache
+D:\C#\Bai17_Project_thuc_te\obj\Debug\net8.0\Bai17_Project_thuc_te.AssemblyInfo.cs
+D:\C#\Bai17_Project_thuc_te\obj\Debug\net8.0\Bai17_Project_thuc_te.csproj.CoreCompileInputs.cache
+D:\C#\Bai17_Project_thuc_te\obj\Debug\net8.0\Bai17_Project_thuc_te.dll
+D:\C#\Bai17_Project_thuc_te\obj\Debug\net8.0\refint\Bai17_Project_thuc_te.dll
+D:\C#\Bai17_Project_thuc_te\obj\Debug\net8.0\Bai17_Project_thuc_te.pdb
+D:\C#\Bai17_Project_thuc_te\obj\Debug\net8.0\Bai17_Project_thuc_te.genruntimeconfig.cache
+D:\C#\Bai17_Project_thuc_te\obj\Debug\net8.0\ref\Bai17_Project_thuc_te.dll

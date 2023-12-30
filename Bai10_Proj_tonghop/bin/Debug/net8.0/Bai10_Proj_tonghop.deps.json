@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai10_Proj_tonghop/1.0.0": {
+        "runtime": {
+          "Bai10_Proj_tonghop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai10_Proj_tonghop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

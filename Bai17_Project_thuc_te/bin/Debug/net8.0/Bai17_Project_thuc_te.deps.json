@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai17_Project_thuc_te/1.0.0": {
+        "runtime": {
+          "Bai17_Project_thuc_te.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai17_Project_thuc_te/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\bin\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.exe
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\bin\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.deps.json
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\bin\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.runtimeconfig.json
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\bin\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.dll
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\bin\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.pdb
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\obj\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\obj\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.AssemblyInfoInputs.cache
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\obj\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.AssemblyInfo.cs
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\obj\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.csproj.CoreCompileInputs.cache
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\obj\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.dll
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\obj\Debug\net8.0\refint\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.dll
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\obj\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.pdb
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\obj\Debug\net8.0\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.genruntimeconfig.cache
+D:\C#\can_ban\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop\obj\Debug\net8.0\ref\Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.dll

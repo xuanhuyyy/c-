@@ -1,0 +1,14 @@
+D:\C#\can_ban\Bai20_Ke_thua\bin\Debug\net8.0\Bai20_Ke_thua.exe
+D:\C#\can_ban\Bai20_Ke_thua\bin\Debug\net8.0\Bai20_Ke_thua.deps.json
+D:\C#\can_ban\Bai20_Ke_thua\bin\Debug\net8.0\Bai20_Ke_thua.runtimeconfig.json
+D:\C#\can_ban\Bai20_Ke_thua\bin\Debug\net8.0\Bai20_Ke_thua.dll
+D:\C#\can_ban\Bai20_Ke_thua\bin\Debug\net8.0\Bai20_Ke_thua.pdb
+D:\C#\can_ban\Bai20_Ke_thua\obj\Debug\net8.0\Bai20_Ke_thua.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\can_ban\Bai20_Ke_thua\obj\Debug\net8.0\Bai20_Ke_thua.AssemblyInfoInputs.cache
+D:\C#\can_ban\Bai20_Ke_thua\obj\Debug\net8.0\Bai20_Ke_thua.AssemblyInfo.cs
+D:\C#\can_ban\Bai20_Ke_thua\obj\Debug\net8.0\Bai20_Ke_thua.csproj.CoreCompileInputs.cache
+D:\C#\can_ban\Bai20_Ke_thua\obj\Debug\net8.0\Bai20_Ke_thua.dll
+D:\C#\can_ban\Bai20_Ke_thua\obj\Debug\net8.0\refint\Bai20_Ke_thua.dll
+D:\C#\can_ban\Bai20_Ke_thua\obj\Debug\net8.0\Bai20_Ke_thua.pdb
+D:\C#\can_ban\Bai20_Ke_thua\obj\Debug\net8.0\Bai20_Ke_thua.genruntimeconfig.cache
+D:\C#\can_ban\Bai20_Ke_thua\obj\Debug\net8.0\ref\Bai20_Ke_thua.dll

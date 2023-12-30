@@ -1,0 +1,14 @@
+D:\C#\Bai09_motsothuvienthuongdung\bin\Debug\net8.0\Bai09_motsothuvienthuongdung.exe
+D:\C#\Bai09_motsothuvienthuongdung\bin\Debug\net8.0\Bai09_motsothuvienthuongdung.deps.json
+D:\C#\Bai09_motsothuvienthuongdung\bin\Debug\net8.0\Bai09_motsothuvienthuongdung.runtimeconfig.json
+D:\C#\Bai09_motsothuvienthuongdung\bin\Debug\net8.0\Bai09_motsothuvienthuongdung.dll
+D:\C#\Bai09_motsothuvienthuongdung\bin\Debug\net8.0\Bai09_motsothuvienthuongdung.pdb
+D:\C#\Bai09_motsothuvienthuongdung\obj\Debug\net8.0\Bai09_motsothuvienthuongdung.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bai09_motsothuvienthuongdung\obj\Debug\net8.0\Bai09_motsothuvienthuongdung.AssemblyInfoInputs.cache
+D:\C#\Bai09_motsothuvienthuongdung\obj\Debug\net8.0\Bai09_motsothuvienthuongdung.AssemblyInfo.cs
+D:\C#\Bai09_motsothuvienthuongdung\obj\Debug\net8.0\Bai09_motsothuvienthuongdung.csproj.CoreCompileInputs.cache
+D:\C#\Bai09_motsothuvienthuongdung\obj\Debug\net8.0\Bai09_motsothuvienthuongdung.dll
+D:\C#\Bai09_motsothuvienthuongdung\obj\Debug\net8.0\refint\Bai09_motsothuvienthuongdung.dll
+D:\C#\Bai09_motsothuvienthuongdung\obj\Debug\net8.0\Bai09_motsothuvienthuongdung.pdb
+D:\C#\Bai09_motsothuvienthuongdung\obj\Debug\net8.0\Bai09_motsothuvienthuongdung.genruntimeconfig.cache
+D:\C#\Bai09_motsothuvienthuongdung\obj\Debug\net8.0\ref\Bai09_motsothuvienthuongdung.dll

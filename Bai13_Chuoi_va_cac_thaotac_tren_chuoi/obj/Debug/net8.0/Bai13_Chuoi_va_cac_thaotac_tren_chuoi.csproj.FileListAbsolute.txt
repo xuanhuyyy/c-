@@ -1,0 +1,14 @@
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\bin\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.exe
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\bin\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.deps.json
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\bin\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.runtimeconfig.json
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\bin\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.dll
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\bin\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.pdb
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\obj\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\obj\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.AssemblyInfoInputs.cache
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\obj\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.AssemblyInfo.cs
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\obj\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.csproj.CoreCompileInputs.cache
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\obj\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.dll
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\obj\Debug\net8.0\refint\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.dll
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\obj\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.pdb
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\obj\Debug\net8.0\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.genruntimeconfig.cache
+D:\C#\Bai13_Chuoi_va_cac_thaotac_tren_chuoi\obj\Debug\net8.0\ref\Bai13_Chuoi_va_cac_thaotac_tren_chuoi.dll

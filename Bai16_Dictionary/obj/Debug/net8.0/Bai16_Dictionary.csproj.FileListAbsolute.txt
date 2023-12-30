@@ -1,0 +1,14 @@
+D:\C#\Bai16_Dictionary\bin\Debug\net8.0\Bai16_Dictionary.exe
+D:\C#\Bai16_Dictionary\bin\Debug\net8.0\Bai16_Dictionary.deps.json
+D:\C#\Bai16_Dictionary\bin\Debug\net8.0\Bai16_Dictionary.runtimeconfig.json
+D:\C#\Bai16_Dictionary\bin\Debug\net8.0\Bai16_Dictionary.dll
+D:\C#\Bai16_Dictionary\bin\Debug\net8.0\Bai16_Dictionary.pdb
+D:\C#\Bai16_Dictionary\obj\Debug\net8.0\Bai16_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bai16_Dictionary\obj\Debug\net8.0\Bai16_Dictionary.AssemblyInfoInputs.cache
+D:\C#\Bai16_Dictionary\obj\Debug\net8.0\Bai16_Dictionary.AssemblyInfo.cs
+D:\C#\Bai16_Dictionary\obj\Debug\net8.0\Bai16_Dictionary.csproj.CoreCompileInputs.cache
+D:\C#\Bai16_Dictionary\obj\Debug\net8.0\Bai16_Dictionary.dll
+D:\C#\Bai16_Dictionary\obj\Debug\net8.0\refint\Bai16_Dictionary.dll
+D:\C#\Bai16_Dictionary\obj\Debug\net8.0\Bai16_Dictionary.pdb
+D:\C#\Bai16_Dictionary\obj\Debug\net8.0\Bai16_Dictionary.genruntimeconfig.cache
+D:\C#\Bai16_Dictionary\obj\Debug\net8.0\ref\Bai16_Dictionary.dll

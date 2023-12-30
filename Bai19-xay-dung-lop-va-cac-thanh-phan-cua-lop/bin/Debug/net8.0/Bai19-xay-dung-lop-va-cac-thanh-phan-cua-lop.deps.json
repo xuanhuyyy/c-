@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop/1.0.0": {
+        "runtime": {
+          "Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai19-xay-dung-lop-va-cac-thanh-phan-cua-lop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
